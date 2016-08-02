@@ -6,9 +6,10 @@ color:
   saturation: 0.6213604295626283
   rhythmicContrast: 0.041449025040492415
   brandColors:
-    - '#B0CC99'
-    - '#677E52'
-    - '#B7CA79'
-    - '#F6E8B1'
-    - '#89725B'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: Earthbus
+title: Cure for Wanderlust
