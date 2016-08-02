@@ -1,16 +1,16 @@
-typography_spectrum: 0.808739583240822
+typography_spectrum: 0.10517654311843216
 color:
-  brandStrength: 0.4589592032134533
-  lightness: 0.1605392498895526
-  saturation: 0.6213604295626283
-  rhythmicContrast: 0.041449025040492415
+  brandStrength: 0.19042380596511066
+  lightness: 0.20109091885387897
+  saturation: 0.5306055413093418
+  rhythmicContrast: 0.6628361288458109
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-layout_spectrum: 0.13671751599758863
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+layout_spectrum: 0.331405513221398
 author:
   name: Joshua Graveline
   email: joshua.stayfit@gmail.com
