@@ -15,5 +15,9 @@ author:
   name: Joshua Graveline
   email: joshua.stayfit@gmail.com
 name: Earthbus
+navigation:
+  - name: EarthBus' Facebook Page
+    url: 'https://www.facebook.com/earthbus/'
+    type: external
 title: EarthBus
 description: One Mans Sustainable Cure for Wanderlust
