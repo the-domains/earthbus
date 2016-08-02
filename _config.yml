@@ -11,6 +11,9 @@ color:
     - '#3E363F'
     - '#DD403A'
 layout_spectrum: 0.13671751599758863
+author:
+  name: Joshua Graveline
+  email: joshua.stayfit@gmail.com
 name: Earthbus
 title: EarthBus
 description: One Mans Sustainable Cure for Wanderlust
