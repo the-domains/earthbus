@@ -1,4 +1,3 @@
-layout_spectrum: 0.13671751599758863
 typography_spectrum: 0.808739583240822
 color:
   brandStrength: 0.4589592032134533
@@ -11,5 +10,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.13671751599758863
 name: Earthbus
 title: Cure for Wanderlust
+description: One man makes sustainable rv travel possible
