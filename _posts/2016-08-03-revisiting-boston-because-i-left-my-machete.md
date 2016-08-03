@@ -4,8 +4,8 @@ at__context: 'http://schema.org'
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/501b335c-b0d0-4862-a9a6-98b243923b58.jpg
 title: Revisiting Boston because I left my Machete
-datePublished: '2016-08-03T23:39:23.022Z'
-dateModified: '2016-08-03T23:39:14.886Z'
+datePublished: '2016-08-03T23:41:45.538Z'
+dateModified: '2016-08-03T23:41:36.736Z'
 publisher: {}
 author: []
 inFeed: true
