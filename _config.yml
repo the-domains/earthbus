@@ -19,5 +19,8 @@ navigation:
   - name: EarthBus' Facebook Page
     url: 'https://www.facebook.com/earthbus/'
     type: external
+  - name: 'Swiss BAREFOOT Company '
+    url: 'http://swissbarefootcompany.ch?rfsn=279597.e2e38'
+    type: external
 title: EarthBus
 description: One Mans Sustainable Cure for Wanderlust
