@@ -2,7 +2,8 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: Waking up in a strange place
-dateModified: '2016-08-04T10:08:48.891Z'
+datePublished: '2016-08-04T17:11:23.969Z'
+dateModified: '2016-08-04T17:10:59.765Z'
 publisher: {}
 author: []
 inFeed: true
@@ -10,7 +11,6 @@ description: >-
   This morning I woke up to this beautiful sight. Though getting here wasn't as
   pretty.
 via: {}
-datePublished: '2016-08-04T10:08:53.197Z'
 starred: false
 sourcePath: _posts/2016-08-04-waking-up-in-a-strange-place.md
 _type: Blurb
