@@ -2,8 +2,8 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: Waking up in a strange place
-datePublished: '2016-08-04T17:11:23.969Z'
-dateModified: '2016-08-04T17:10:59.765Z'
+datePublished: '2016-08-20T19:47:49.625Z'
+dateModified: '2016-08-20T19:47:47.583Z'
 publisher: {}
 author: []
 inFeed: true
