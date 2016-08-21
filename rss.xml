@@ -4,7 +4,7 @@
         <description><![CDATA[EarthBus]]></description>
         <link>https://thegrid.ai/earthbus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 20:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 20:04:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/earthbus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Revisiting Boston because I left my Machete]]></title>
@@ -12,13 +12,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/501b335c-b0d0-4862-a9a6-98b243923b58.jpg</link>
             <guid isPermaLink="false">a7964957-7cff-4c74-b2ac-1960782be5ef</guid>
             <pubDate>Wed, 03 Aug 2016 23:41:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8daf2f5b-811d-432c-8691-896022a1d3e6.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8daf2f5b-811d-432c-8691-896022a1d3e6.jpg</link>
-            <guid isPermaLink="false">9596eb3f-39fd-498b-a54a-0b86385c73bd</guid>
-            <pubDate>Tue, 02 Aug 2016 23:12:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
